@@ -8,23 +8,16 @@
 </p>
 <h2>🌎Socials</h2>
 <p>
-  <a href="pooyabirvand@gamil.com/">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL" />
-  </a>
-  <a href="https://instagram.com/ahoo3842/">
-    <img src="![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/"/>
-  </a>
-  <a href="https://t.me/Itz_Nishaba/">
-    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/SEUUSERNAME"/>
-  </a>
-    <a href="https://discord/pouyabirvand/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/"/>
-  </a>
+  
+ <a href="https://www.aparat.com"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 </p>
 <hr>
 <br>
 <h2>📋Github Stats</h2>
-
 
 <a align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=shadow-orange&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)</a>
 
