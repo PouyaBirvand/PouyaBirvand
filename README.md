@@ -1,5 +1,4 @@
-<h1>Hello , I'm Pouya Birvand</h1>
-<hr>
+## Hello , I'm Pouya Birvand <h1>
 <h2 backgroundcolor='blue'>💡Skills</h2>
 <p>
   <a href="https://skillicons.dev">
