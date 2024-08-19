@@ -31,4 +31,6 @@
 <hr>
 <h2>📋Github Stats</h2>
 
-<a align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=shadow-orange&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)</a>
+<a href="https://github.com/pouyabirvand">
+  <img src="https://github-readme-stats.vercel.app/api?username=PouyaBirvand&show_icons=true&theme=codeSTACKr" />
+</a>
