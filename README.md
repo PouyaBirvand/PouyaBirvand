@@ -17,7 +17,7 @@
 ## 🧠Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,regex,react,typescript,redux,materialui,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,regex,react,git,github,figma" />
   </a>
 </p>
 <h2>🌎Socials</h2>
