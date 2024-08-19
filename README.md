@@ -2,7 +2,9 @@
 
 ## 👨‍💻 Front-End Developer | 🎨 UI/UX Enthusiast
 
-**I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love.**
+#### I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love.⚡ ####
+
+<br>
 
 - **🔭 I'm not currently working on a project**
 - **🌱 I'm currently learning React JS ⚛**
