@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Pouya
 
-
 ## 👨‍💻 Front-End Developer | 🎨 UI/UX Enthusiast
 
 **I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love.**
@@ -13,6 +12,7 @@
 - **😄 Pronouns: he/him💁‍♂️**
 - **⚡ Fun fact: I can type at 150 words per minute ⌨**
 
+<br>
 
 ## 🧠Skills
 <p>
@@ -28,7 +28,7 @@
  <a href="">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a href="https://www.discord.com/pooyabirvand#0000">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 </p>
-<hr>
+<br>
 <h2>📋Github Stats</h2>
 
 <a href="https://github.com/pouyabirvand">
