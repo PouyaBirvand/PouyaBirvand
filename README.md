@@ -27,13 +27,29 @@ src="https://camo.githubusercontent.com/49df619af4e025d7673e0b23470534e7e85cf946
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,regex,react,git,github,figma" />
   </a>
 </p>
-<h2>🌎Socials</h2>
+
+## 🌎Socials
 <p>
-  
- <a href="https://t.me/Itz_Nishaba"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
- <a href="https://www.instagram.com/ahoo3448"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
- <a href="">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
- <a href="https://www.discord.com/pooyabirvand#0000">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+ <a href="https://www.discord.com/pooyabirvand#0000">
+   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70rem" height="70rem">
+ </a>
+
+  <a href="https://www.instagram.com/@ahoo3448">
+   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70rem" height="70rem">
+ </a>
+
+ <a href="https://www.linkdin.com/Undefind">
+   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70rem" height="70rem">
+ </a>
+
+  <a href="https://www.linkdin.com/Undefind">
+   <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70rem" height="70rem">
+ </a>
+
+  <a href="https://www.linkdin.com/Undefind">
+   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70rem" height="70rem">
+ </a>
+
 </p>
 <br>
 <h2>📋Github Stats</h2>
