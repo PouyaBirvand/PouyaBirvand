@@ -3,21 +3,22 @@
 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
-# 👋 Hi there, I'm Pouya
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> Hi there, I'm Pouya
 
-## 👨‍💻 Front-End Developer | 🎨 UI/UX Enthusiast
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="25" height="25"> Front-End Developer |   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="25" height="25"> UI/UX Enthusiast
 
-#### I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love.⚡ ####
+#### I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love. <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" height="20"> ####
 
 <br>
 
-- **🔭 I'm not currently working on a project**
-- **🌱 I'm currently learning React JS ⚛**
-- **👯 I'm looking to collaborate on open source projects**
-- **💬 Ask me about React, JavaScript, CSS, and web performance optimization**
-- **📫 How to reach me: pooyabirvand@gmail.com 📩**
-- **😄 Pronouns: he/him💁‍♂️**
-- **⚡ Fun fact: I can type at 150 words per minute ⌨**
+
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> I'm not currently working on a project**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I'm currently learning React JS ⚛**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483_1f3fb/512.gif" alt="💃" width="20" height="20"> I'm looking to collaborate on open source projects**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32c_fe0f/512.gif" alt="🌬" width="20" height="20">Ask me about React, JavaScript, CSS, and web performance optimization**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"> How to reach me: pooyabirvand@gmail.com 📩**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20"> Pronouns: he/him💁‍♂️**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" height="20"> Fun fact: I can type at 150 words per minute ⌨**
 
 <hr>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90rem" height="90rem">
@@ -76,3 +77,6 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 <hr>
 
 
+
+
+  
