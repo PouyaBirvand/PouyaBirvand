@@ -1,6 +1,6 @@
 <p align="center">
   <img
-src="https://camo.githubusercontent.com/49df619af4e025d7673e0b23470534e7e85cf94660f6fedb37ca1c053d5c2c70/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d57656c636f6d65266865696768743d3130302673656374696f6e3d686561646572">
+src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
 # 👋 Hi there, I'm Pouya
@@ -19,17 +19,25 @@ src="https://camo.githubusercontent.com/49df619af4e025d7673e0b23470534e7e85cf946
 - **😄 Pronouns: he/him💁‍♂️**
 - **⚡ Fun fact: I can type at 150 words per minute ⌨**
 
-<br>
+<hr>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90rem" height="90rem">
 
-## 🧠Skills
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,regex,react,git,github,figma" />
   </a>
 </p>
 
-## 🌎Socials
+<br>
+
+<hr>
+
+<a href="#">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" width="90rem" height="90rem">
+</a>
+<br>
 <p>
+  
  <a href="https://www.discord.com/pooyabirvand#0000">
    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70rem" height="70rem">
  </a>
@@ -49,11 +57,14 @@ src="https://camo.githubusercontent.com/49df619af4e025d7673e0b23470534e7e85cf946
   <a href="https://www.linkdin.com/Undefind">
    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70rem" height="70rem">
  </a>
-
+ <hr>
 </p>
 <br>
-<h2>📋Github Stats</h2>
-
+  <a href="#">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="90rem" height="90rem">
+ </a>
+<br>
+<br>
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=PouyaBirvand&theme=gruvbox">
 </p>
@@ -63,6 +74,5 @@ src="https://camo.githubusercontent.com/49df619af4e025d7673e0b23470534e7e85cf946
 </a>
 
 <hr>
-<p align="center">
-  <img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
-</p>
+
+
