@@ -29,7 +29,6 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
   </a>
 </p>
 
-<br>
 
 <hr>
 
