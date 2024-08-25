@@ -5,14 +5,14 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
  <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> Hi there, I'm Pouya</h1>
 
-##   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f426_200d_2b1b/512.gif" alt="🐦" width="25" height="25"> Front-End Developer |   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="25" height="25"> UI/UX Enthusiast
+##     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f426/512.gif" alt="🐦" width="32" height="32"> Front-End Developer |   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="25" height="25"> UI/UX Enthusiast
 
 #### I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love.  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac0/512.gif" alt="🫀" width="25" height="25"> ####
 
 <br>
 
 
-- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> I'm not currently working on a project**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2744_fe0f/512.gif" alt="❄" width="20" height="20"> I'm not currently working on a project**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I'm currently learning React JS ⚛**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483_1f3fb/512.gif" alt="💃" width="20" height="20"> I'm looking to collaborate on open source projects**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32c_fe0f/512.gif" alt="🌬" width="20" height="20">Ask me about React, JavaScript, CSS, and web performance optimization**
@@ -71,11 +71,10 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 <a href="https://github.com/pouyabirvand">
   <img src="https://github-readme-stats.vercel.app/api?username=PouyaBirvand&show_icons=true&theme=codeSTACKr" />
+  
 </a>
 
 <hr>
 
 
 
-
-  
