@@ -7,7 +7,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 ##     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f426/512.gif" alt="🐦" width="32" height="32"> Front-End Developer |   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="25" height="25"> UI/UX Enthusiast
 
-#### I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love.  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac0/512.gif" alt="🫀" width="25" height="25"> ####
+- #### I'm a passionate front-end developer with a keen eye for creating beautiful, responsive, and user-friendly websites. My mission is to bridge the gap between design and functionality, crafting seamless digital experiences that users love.  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac0/512.gif" alt="🫀" width="25" height="25"> ####
 
 <br>
 
