@@ -1,8 +1,8 @@
 <p align="center">
-  <img
-src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  
+ <img class="image-placeholder" src="https://i.imgur.com/4qIOGea.gif" alt="aww-Just-little-friendly-fox-to-happily-wave-Hi-while-you-search-through-UserSub-gold-Hey-Imgur">
+  
 </p>
-
  <h1 align="center"> Hi there, I'm Pouya<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></h1>
 
 ##     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f980/512.gif" alt="🦀" width="32" height="32"> Front-End Developer |   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="25" height="25"> UI/UX Enthusiast
@@ -77,4 +77,4 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 <hr>
 
 
-
+<!-- src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
