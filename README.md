@@ -1,5 +1,5 @@
 <p align="center">
- <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+ <img  src="https://i.pinimg.com/originals/97/48/41/9748414212c9f983701116f8554f6f3f.gif" height="500px" width="1000px">
 </p>
  <h1 align="center"> Hi there, I'm Pouya<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></h1>
 
