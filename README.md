@@ -23,7 +23,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,regex,react,npm,vite,materialui,redux,git,github,supabase,firebase,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,regex,react,npm,vite,materialui,redux,git,github,gitlab,supabase,firebase,windows,figma" />
   </a>
 </p>
 
