@@ -14,7 +14,7 @@
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I'm currently learning React JS ⚛**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483_1f3fb/512.gif" alt="💃" width="20" height="20"> I'm looking to collaborate on open source projects**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32c_fe0f/512.gif" alt="🌬" width="20" height="20">Ask me about React, JavaScript, CSS, and web performance optimization**
-- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"> How to reach me: pooyabirvand@gmail.com or Tel : <a href="https://t.me/Itz_Nishaba">@Itz_Nishaba</a>**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"> How to reach me?  Gmail : pooyabirvand@gmail.com  Telegram : <a href="https://t.me/Itz_Nishaba">@Itz_Nishaba</a>**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20"> Pronouns: he/him**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" height="20"> Fun fact: I can type at 150 words per minute**
 
