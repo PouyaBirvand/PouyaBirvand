@@ -74,6 +74,14 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="npm" />
+      <br>npm
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="65" height="65" alt="shadcn/ui" />
+      <br>shadcn/ui
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
@@ -95,7 +103,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <hr>
