@@ -36,6 +36,10 @@
       <br>JavaScript
     </td>    
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=regex" width="65" height="65" alt="Regex" />
       <br>Regex
     </td>
@@ -51,6 +55,8 @@
         <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="MaterialUI" />
       <br>MaterialUI
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="65" height="65" alt="Framer Motion" />
       <br>Framer Motion
@@ -60,18 +66,38 @@
       <br>Redux Toolkit
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="65" height="65" alt="React Query" />
+        <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="65" height="65" alt="React Query" />
       <br>React Query
     </td>
     <td align="center" width="96">
         <img src="https://cdn.svgporn.com/logos/lodash.svg" width="65" height="65" alt="Lodash" />
       <br>Lodash
     </td>
+<td align="center" width="96">
+    <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="65" height="65" alt="Zustand" style="border-radius: 8px" />
+    <br>Zustand
+</td>
+    <td align="center" width="96">
+        <img src="https://axios-http.com/assets/logo.svg" width="65" height="65" alt="Axios" />
+      <br>Axios
+    </td>
+<td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="65" height="65" alt="Swiper" />
+    <br>Swiper
+</td>
+    <td align="center" width="96">
+        <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="65" height="65" alt="ChartJS" />
+      <br>ChartJS
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
       <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="npm" />
@@ -82,12 +108,12 @@
       <br>shadcn/ui
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
+        <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" width="65" height="65" alt="DaisyUI" />
+      <br>DaisyUI
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
@@ -96,10 +122,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
       <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" />
-      <br>Windows
     </td>
   </tr>
 </table>
