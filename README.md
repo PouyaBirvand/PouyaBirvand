@@ -10,7 +10,7 @@
 <br>
 
 
-- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2744_fe0f/512.gif" alt="❄" width="20" height="20"> I'm currently working on a project**
+- **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2744_fe0f/512.gif" alt="❄" width="20" height="20"> I'm currently learning NEXT-JS**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I'm currently learning ReactJS  libraries📚**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483_1f3fb/512.gif" alt="💃" width="20" height="20"> I'm looking to collaborate on open source projects**
 - **<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32c_fe0f/512.gif" alt="🌬" width="20" height="20">Ask me about React, JavaScript, CSS, and web performance optimization**
