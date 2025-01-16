@@ -92,14 +92,6 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="npm" />
       <br>npm
     </td>
