@@ -115,6 +115,14 @@
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
       <br>Figma
     </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://clerk.com/_next/image?url=%2Fimages%2Fclerk-logo.svg&w=96&q=75" width="65" height="65" alt="Clerk" />
+      <br>Clerk
+    </td>
   </tr>
 </table>
 
