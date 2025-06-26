@@ -36,6 +36,10 @@
 <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
 <br><b>Tailwind</b>
 </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+            <br><b>Docker</b>
+        </td>
 </tr>
 <tr>
 <td align="center" width="90">
@@ -58,9 +62,13 @@
 <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
 <br><b>Figma</b>
 </td>
+        <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
+                width="65" height="65" />
+            <br><b>Socket.io</b>
+        </td>
 </tr>
 </table>
-
 
 </div>
 
