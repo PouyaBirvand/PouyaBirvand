@@ -44,7 +44,7 @@
 <tr>
 <td align="center" width="90">
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
-<br><b>Redux</b>
+<br><b>Redux Toolkit</b>
 </td>
 <td align="center" width="90">
 <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55" height="55" style="border-radius: 10px;" />
