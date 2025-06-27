@@ -55,7 +55,7 @@
 <br><b>Jest</b>
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/storybookjs/brand@main/icon/icon-storybook-default.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65"" width="55" height="55" />
 <br><b>Storybook</b>
 </td>
 <td align="center" width="90">
